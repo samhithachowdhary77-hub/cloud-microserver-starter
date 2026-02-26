@@ -1,0 +1,4 @@
+If a pod crashes repeatedly:
+1. Check logs using kubectl logs
+2. Restart deployment
+3. Verify health checks

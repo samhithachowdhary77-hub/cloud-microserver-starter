@@ -1,0 +1,4 @@
+High Redis latency may be caused by:
+- slow disk IO
+- memory pressure
+- excessive connections
